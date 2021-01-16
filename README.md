@@ -1,1 +1,3 @@
 # telnet
+
+![Screenshot](telnet.png)
